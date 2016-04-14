@@ -1,0 +1,359 @@
+Amersham Biosciences
+   Ettan IPGphor  
+Version A1  02/05/03 
+Serial No.  20099890
+
+Protocol: 3 11NL 24CM     
+No. of strips: 6
+Rehydraton:for  8:00Hrs at 20 C
+IEF Params: 50uA/Strip at 20 C
+S1  Step-n-hold  500V    1:00Hrs
+S2    Gradient  1000V    3:00Hrs
+S3    Gradient  8000V    3:00Hrs
+S4  Step-n-hold 8000V    8:45Hrs
+
+
+ 0:00 ->  250V at 12uA     0Vhrs
+ 0:05 ->  364V at 50uA    31Vhrs
+ 0:05 ->  366V at 50uA    31Vhrs
+ 0:10 ->  367V at 49uA    61Vhrs
+ 0:10 ->  377V at 48uA    61Vhrs
+ 0:15 ->  377V at 49uA    92Vhrs
+ 0:15 ->  377V at 49uA    93Vhrs
+ 0:20 ->  389V at 49uA   124Vhrs
+ 0:20 ->  395V at 50uA   125Vhrs
+ 0:25 ->  406V at 50uA   158Vhrs
+ 0:25 ->  407V at 50uA   158Vhrs
+ 0:30 ->  429V at 49uA   193Vhrs
+ 0:30 ->  429V at 50uA   193Vhrs
+ 0:35 ->  455V at 49uA   230Vhrs
+ 0:35 ->  463V at 49uA   230Vhrs
+ 0:40 ->  490V at 50uA   269Vhrs
+ 0:40 ->  488V at 49uA   269Vhrs
+ 0:45 ->  500V at 47uA   311Vhrs
+ 0:45 ->  500V at 46uA   311Vhrs
+ 0:50 ->  500V at 43uA   352Vhrs
+ 0:50 ->  500V at 43uA   352Vhrs
+ 0:55 ->  500V at 41uA   394Vhrs
+ 0:55 ->  500V at 41uA   394Vhrs
+ 1:00 ->  500V at 39uA   435Vhrs
+Step  2
+ 1:00 ->  500V at 39uA   436Vhrs
+ 1:05 ->  514V at 38uA   478Vhrs
+ 1:05 ->  514V at 38uA   478Vhrs
+ 1:10 ->  528V at 37uA   521Vhrs
+ 1:10 ->  528V at 37uA   521Vhrs
+ 1:15 ->  542V at 38uA   566Vhrs
+ 1:15 ->  542V at 38uA   566Vhrs
+ 1:20 ->  556V at 37uA   611Vhrs
+ 1:20 ->  556V at 37uA   612Vhrs
+ 1:25 ->  569V at 36uA   658Vhrs
+ 1:25 ->  570V at 36uA   659Vhrs
+ 1:30 ->  583V at 37uA   706Vhrs
+ 1:30 ->  583V at 36uA   707Vhrs
+ 1:35 ->  597V at 37uA   756Vhrs
+ 1:35 ->  597V at 37uA   756Vhrs
+ 1:40 ->  611V at 36uA   806Vhrs
+ 1:40 ->  611V at 36uA   806Vhrs
+ 1:45 ->  625V at 36uA   857Vhrs
+ 1:45 ->  625V at 36uA   858Vhrs
+ 1:50 ->  639V at 35uA   910Vhrs
+ 1:50 ->  639V at 35uA   911Vhrs
+ 1:55 ->  653V at 34uA   964Vhrs
+ 1:55 ->  653V at 34uA   964Vhrs
+ 2:00 ->  667V at 32uA  1019Vhrs
+ 2:00 ->  667V at 32uA  1019Vhrs
+ 2:05 ->  681V at 30uA  1075Vhrs
+ 2:05 ->  681V at 30uA  1076Vhrs
+ 2:10 ->  695V at 27uA  1133Vhrs
+ 2:10 ->  695V at 27uA  1133Vhrs
+ 2:15 ->  708V at 25uA  1191Vhrs
+ 2:15 ->  709V at 25uA  1191Vhrs
+ 2:20 ->  722V at 22uA  1251Vhrs
+ 2:20 ->  722V at 22uA  1251Vhrs
+ 2:25 ->  736V at 21uA  1311Vhrs
+ 2:25 ->  736V at 21uA  1312Vhrs
+ 2:30 ->  750V at 19uA  1374Vhrs
+ 2:30 ->  750V at 19uA  1374Vhrs
+ 2:35 ->  764V at 18uA  1437Vhrs
+ 2:35 ->  764V at 18uA  1437Vhrs
+ 2:40 ->  778V at 18uA  1501Vhrs
+ 2:40 ->  778V at 18uA  1501Vhrs
+ 2:45 ->  792V at 17uA  1566Vhrs
+ 2:45 ->  792V at 17uA  1567Vhrs
+ 2:50 ->  806V at 16uA  1633Vhrs
+ 2:50 ->  806V at 16uA  1633Vhrs
+ 2:55 ->  820V at 16uA  1701Vhrs
+ 2:55 ->  820V at 16uA  1701Vhrs
+ 3:00 ->  834V at 15uA  1770Vhrs
+ 3:00 ->  834V at 15uA  1770Vhrs
+ 3:05 ->  847V at 15uA  1840Vhrs
+ 3:05 ->  848V at 15uA  1840Vhrs
+ 3:10 ->  861V at 15uA  1911Vhrs
+ 3:10 ->  861V at 15uA  1911Vhrs
+ 3:15 ->  875V at 14uA  1983Vhrs
+ 3:15 ->  875V at 14uA  1984Vhrs
+ 3:20 ->  889V at 14uA  2057Vhrs
+ 3:20 ->  889V at 14uA  2057Vhrs
+ 3:25 ->  903V at 13uA  2132Vhrs
+ 3:25 ->  903V at 13uA  2132Vhrs
+ 3:30 ->  917V at 13uA  2208Vhrs
+ 3:30 ->  917V at 13uA  2208Vhrs
+ 3:35 ->  931V at 13uA  2285Vhrs
+ 3:35 ->  931V at 13uA  2285Vhrs
+ 3:40 ->  945V at 12uA  2363Vhrs
+ 3:40 ->  945V at 12uA  2363Vhrs
+ 3:45 ->  959V at 12uA  2442Vhrs
+ 3:45 ->  959V at 12uA  2443Vhrs
+ 3:50 ->  973V at 12uA  2523Vhrs
+ 3:50 ->  973V at 12uA  2523Vhrs
+ 3:55 ->  986V at 11uA  2604Vhrs
+ 3:55 ->  986V at 11uA  2605Vhrs
+ 4:00 -> 1000V at 11uA  2685Vhrs
+Step  3
+ 4:00 -> 1005V at 11uA  2687Vhrs
+ 4:05 -> 1195V at 13uA  2777Vhrs
+ 4:05 -> 1200V at 13uA  2779Vhrs
+ 4:10 -> 1389V at 14uA  2885Vhrs
+ 4:10 -> 1394V at 14uA  2888Vhrs
+ 4:15 -> 1584V at 15uA  3009Vhrs
+ 4:15 -> 1588V at 15uA  3012Vhrs
+ 4:20 -> 1778V at 16uA  3149Vhrs
+ 4:20 -> 1784V at 16uA  3153Vhrs
+ 4:25 -> 1973V at 17uA  3305Vhrs
+ 4:25 -> 1979V at 17uA  3310Vhrs
+ 4:30 -> 2167V at 17uA  3478Vhrs
+ 4:30 -> 2174V at 17uA  3484Vhrs
+ 4:35 -> 2362V at 18uA  3666Vhrs
+ 4:35 -> 2369V at 18uA  3674Vhrs
+ 4:40 -> 2556V at 18uA  3871Vhrs
+ 4:40 -> 2564V at 18uA  3880Vhrs
+ 4:45 -> 2751V at 19uA  4092Vhrs
+ 4:45 -> 2760V at 19uA  4103Vhrs
+ 4:50 -> 2945V at 19uA  4330Vhrs
+ 4:50 -> 2955V at 19uA  4342Vhrs
+ 4:55 -> 3139V at 20uA  4583Vhrs
+ 4:55 -> 3150V at 20uA  4597Vhrs
+ 5:00 -> 3334V at 21uA  4853Vhrs
+ 5:00 -> 3345V at 21uA  4869Vhrs
+ 5:05 -> 3528V at 21uA  5139Vhrs
+ 5:05 -> 3540V at 21uA  5157Vhrs
+ 5:10 -> 3723V at 22uA  5441Vhrs
+ 5:10 -> 3736V at 22uA  5461Vhrs
+ 5:15 -> 3917V at 23uA  5759Vhrs
+ 5:15 -> 3931V at 23uA  5782Vhrs
+ 5:20 -> 4112V at 23uA  6094Vhrs
+ 5:20 -> 4126V at 23uA  6119Vhrs
+ 5:25 -> 4306V at 24uA  6445Vhrs
+ 5:25 -> 4321V at 24uA  6472Vhrs
+ 5:30 -> 4501V at 25uA  6812Vhrs
+ 5:30 -> 4517V at 25uA  6842Vhrs
+ 5:35 -> 4695V at 25uA  7195Vhrs
+ 5:35 -> 4712V at 25uA  7228Vhrs
+ 5:40 -> 4890V at 26uA  7594Vhrs
+ 5:40 -> 4907V at 26uA  7630Vhrs
+ 5:45 -> 5084V at 27uA  8010Vhrs
+ 5:45 -> 5102V at 27uA  8049Vhrs
+ 5:50 -> 5279V at 27uA  8441Vhrs
+ 5:50 -> 5297V at 27uA  8484Vhrs
+ 5:55 -> 5473V at 28uA  8889Vhrs
+ 5:55 -> 5492V at 28uA  8935Vhrs
+ 6:00 -> 5667V at 29uA  9354Vhrs
+ 6:00 -> 5688V at 29uA  9403Vhrs
+ 6:05 -> 5862V at 30uA  9835Vhrs
+ 6:05 -> 5883V at 30uA  9886Vhrs
+ 6:10 -> 6056V at 30uA 10331Vhrs
+ 6:10 -> 6078V at 30uA 10387Vhrs
+ 6:15 -> 6251V at 31uA 10844Vhrs
+ 6:15 -> 6273V at 31uA 10903Vhrs
+ 6:20 -> 6445V at 30uA 11373Vhrs
+ 6:20 -> 6468V at 30uA 11437Vhrs
+ 6:25 -> 6640V at 32uA 11918Vhrs
+ 6:25 -> 6664V at 32uA 11986Vhrs
+ 6:30 -> 6834V at 33uA 12479Vhrs
+ 6:30 -> 6859V at 33uA 12551Vhrs
+ 6:35 -> 7029V at 34uA 13057Vhrs
+ 6:35 -> 7054V at 34uA 13134Vhrs
+ 6:40 -> 7223V at 34uA 13651Vhrs
+ 6:40 -> 7249V at 35uA 13732Vhrs
+ 6:45 -> 7418V at 35uA 14261Vhrs
+ 6:45 -> 7444V at 35uA 14346Vhrs
+ 6:50 -> 7612V at 36uA 14887Vhrs
+ 6:50 -> 7640V at 36uA 14977Vhrs
+ 6:55 -> 7806V at 37uA 15530Vhrs
+ 6:55 -> 7835V at 37uA 15624Vhrs
+ 7:00 -> 8000V at 38uA 16185Vhrs
+Step  4
+ 7:00 -> 8000V at 38uA 16289Vhrs
+ 7:05 -> 8000V at 37uA 16853Vhrs
+ 7:05 -> 8000V at 37uA 16957Vhrs
+ 7:10 -> 8000V at 37uA 17520Vhrs
+ 7:10 -> 8000V at 37uA 17627Vhrs
+ 7:15 -> 8000V at 37uA 18187Vhrs
+ 7:15 -> 8000V at 37uA 18296Vhrs
+ 7:20 -> 8000V at 37uA 18854Vhrs
+ 7:20 -> 8000V at 37uA 18966Vhrs
+ 7:25 -> 8000V at 37uA 19521Vhrs
+ 7:25 -> 8000V at 37uA 19635Vhrs
+ 7:30 -> 8000V at 37uA 20188Vhrs
+ 7:30 -> 8000V at 37uA 20305Vhrs
+ 7:35 -> 8000V at 37uA 20854Vhrs
+ 7:35 -> 8000V at 37uA 20974Vhrs
+ 7:40 -> 8000V at 37uA 21521Vhrs
+ 7:40 -> 8000V at 37uA 21643Vhrs
+ 7:45 -> 8000V at 36uA 22188Vhrs
+ 7:45 -> 8000V at 36uA 22313Vhrs
+ 7:50 -> 8000V at 36uA 22856Vhrs
+ 7:50 -> 8000V at 37uA 22983Vhrs
+ 7:55 -> 8000V at 36uA 23523Vhrs
+ 7:55 -> 8000V at 36uA 23651Vhrs
+ 8:00 -> 8000V at 36uA 24189Vhrs
+ 8:01 -> 8000V at 36uA 24321Vhrs
+ 8:05 -> 8000V at 36uA 24856Vhrs
+ 8:06 -> 8000V at 36uA 24991Vhrs
+ 8:10 -> 8000V at 36uA 25523Vhrs
+ 8:11 -> 8000V at 36uA 25660Vhrs
+ 8:15 -> 8000V at 36uA 26190Vhrs
+ 8:16 -> 8000V at 36uA 26330Vhrs
+ 8:20 -> 8000V at 36uA 26857Vhrs
+ 8:21 -> 8000V at 36uA 26999Vhrs
+ 8:25 -> 8000V at 36uA 27523Vhrs
+ 8:26 -> 8000V at 36uA 27668Vhrs
+ 8:30 -> 8000V at 36uA 28191Vhrs
+ 8:31 -> 8000V at 36uA 28338Vhrs
+ 8:35 -> 8000V at 36uA 28858Vhrs
+ 8:36 -> 8000V at 37uA 29003Vhrs
+ 8:40 -> 8000V at 36uA 29526Vhrs
+ 8:41 -> 8000V at 36uA 29668Vhrs
+ 8:45 -> 8000V at 36uA 30192Vhrs
+ 8:46 -> 8000V at 36uA 30333Vhrs
+ 8:50 -> 8000V at 36uA 30859Vhrs
+ 8:51 -> 8000V at 36uA 30997Vhrs
+ 8:55 -> 8000V at 36uA 31527Vhrs
+ 8:56 -> 8000V at 36uA 31662Vhrs
+ 9:00 -> 8000V at 35uA 32194Vhrs
+ 9:01 -> 8000V at 35uA 32327Vhrs
+ 9:05 -> 8000V at 35uA 32861Vhrs
+ 9:06 -> 8000V at 35uA 32991Vhrs
+ 9:10 -> 8000V at 35uA 33527Vhrs
+ 9:11 -> 8000V at 35uA 33655Vhrs
+ 9:15 -> 8000V at 36uA 34193Vhrs
+ 9:15 -> 8000V at 36uA 34319Vhrs
+ 9:20 -> 8000V at 35uA 34860Vhrs
+ 9:20 -> 8000V at 35uA 34982Vhrs
+ 9:25 -> 8000V at 35uA 35526Vhrs
+ 9:25 -> 8000V at 35uA 35646Vhrs
+ 9:30 -> 8000V at 35uA 36192Vhrs
+ 9:30 -> 8000V at 35uA 36309Vhrs
+ 9:35 -> 8000V at 35uA 36857Vhrs
+ 9:35 -> 8000V at 35uA 36973Vhrs
+ 9:40 -> 8000V at 35uA 37524Vhrs
+ 9:40 -> 8000V at 35uA 37637Vhrs
+ 9:45 -> 8000V at 35uA 38190Vhrs
+ 9:45 -> 8000V at 35uA 38300Vhrs
+ 9:50 -> 8000V at 35uA 38856Vhrs
+ 9:50 -> 8000V at 35uA 38964Vhrs
+ 9:55 -> 8000V at 35uA 39521Vhrs
+ 9:55 -> 8000V at 35uA 39627Vhrs
+10:00 -> 8000V at 35uA 40188Vhrs
+10:00 -> 8000V at 35uA 40291Vhrs
+10:05 -> 8000V at 35uA 40854Vhrs
+10:05 -> 8000V at 35uA 40954Vhrs
+10:10 -> 8000V at 35uA 41520Vhrs
+10:10 -> 8000V at 35uA 41618Vhrs
+10:15 -> 8000V at 35uA 42186Vhrs
+10:15 -> 8000V at 35uA 42282Vhrs
+10:20 -> 8000V at 35uA 42852Vhrs
+10:20 -> 8000V at 35uA 42945Vhrs
+10:25 -> 8000V at 34uA 43518Vhrs
+10:25 -> 8000V at 34uA 43609Vhrs
+10:30 -> 8000V at 34uA 44184Vhrs
+10:30 -> 8000V at 34uA 44273Vhrs
+10:35 -> 8000V at 34uA 44850Vhrs
+10:35 -> 8000V at 34uA 44937Vhrs
+10:40 -> 8000V at 34uA 45516Vhrs
+10:40 -> 8000V at 34uA 45600Vhrs
+10:45 -> 8000V at 33uA 46182Vhrs
+10:45 -> 8000V at 33uA 46263Vhrs
+10:50 -> 8000V at 33uA 46849Vhrs
+10:50 -> 8000V at 33uA 46926Vhrs
+10:55 -> 8000V at 33uA 47515Vhrs
+10:55 -> 8000V at 33uA 47591Vhrs
+11:00 -> 8000V at 33uA 48181Vhrs
+11:00 -> 8000V at 33uA 48254Vhrs
+11:05 -> 8000V at 33uA 48846Vhrs
+11:05 -> 8000V at 33uA 48917Vhrs
+11:10 -> 8000V at 33uA 49513Vhrs
+11:10 -> 8000V at 33uA 49582Vhrs
+11:15 -> 8000V at 33uA 50178Vhrs
+11:15 -> 8000V at 34uA 50245Vhrs
+11:20 -> 8000V at 34uA 50845Vhrs
+11:20 -> 8000V at 34uA 50908Vhrs
+11:25 -> 8000V at 34uA 51510Vhrs
+11:25 -> 8000V at 34uA 51572Vhrs
+11:30 -> 8000V at 33uA 52176Vhrs
+11:30 -> 8000V at 34uA 52235Vhrs
+11:35 -> 8000V at 33uA 52843Vhrs
+11:35 -> 8000V at 33uA 52899Vhrs
+11:40 -> 8000V at 33uA 53509Vhrs
+11:40 -> 8000V at 33uA 53563Vhrs
+11:45 -> 8000V at 32uA 54174Vhrs
+11:45 -> 8000V at 32uA 54226Vhrs
+11:50 -> 8000V at 32uA 54841Vhrs
+11:50 -> 8000V at 32uA 54890Vhrs
+11:55 -> 8000V at 32uA 55507Vhrs
+11:55 -> 8000V at 32uA 55554Vhrs
+12:00 -> 8000V at 32uA 56173Vhrs
+12:00 -> 8000V at 32uA 56217Vhrs
+12:05 -> 8000V at 32uA 56839Vhrs
+12:05 -> 8000V at 32uA 56881Vhrs
+12:10 -> 8000V at 32uA 57505Vhrs
+12:10 -> 8000V at 32uA 57544Vhrs
+12:15 -> 8000V at 32uA 58171Vhrs
+12:15 -> 8000V at 32uA 58208Vhrs
+12:20 -> 8000V at 32uA 58837Vhrs
+12:20 -> 8000V at 33uA 58871Vhrs
+12:25 -> 8000V at 33uA 59503Vhrs
+12:25 -> 8000V at 33uA 59535Vhrs
+12:30 -> 8000V at 33uA 60169Vhrs
+12:30 -> 8000V at 33uA 60198Vhrs
+12:35 -> 8000V at 33uA 60835Vhrs
+12:35 -> 8000V at 33uA 60862Vhrs
+12:40 -> 8000V at 33uA 61502Vhrs
+12:40 -> 8000V at 33uA 61526Vhrs
+12:45 -> 8000V at 33uA 62167Vhrs
+12:45 -> 8000V at 33uA 62190Vhrs
+12:50 -> 8000V at 33uA 62834Vhrs
+12:50 -> 8000V at 33uA 62853Vhrs
+12:55 -> 8000V at 33uA 63500Vhrs
+12:55 -> 8000V at 33uA 63517Vhrs
+13:00 -> 8000V at 33uA 64165Vhrs
+13:00 -> 8000V at 33uA 64180Vhrs
+13:05 -> 8000V at 33uA 64832Vhrs
+13:05 -> 8000V at 33uA 64844Vhrs
+13:10 -> 8000V at 33uA 65498Vhrs
+13:10 -> 8000V at 33uA 65508Vhrs
+13:15 -> 8000V at 33uA 66166Vhrs
+13:15 -> 8000V at 33uA 66173Vhrs
+13:20 -> 8000V at 33uA 66834Vhrs
+13:20 -> 8000V at 33uA 66839Vhrs
+13:25 -> 8000V at 33uA 67502Vhrs
+13:25 -> 8000V at 33uA 67505Vhrs
+13:30 -> 8000V at 33uA 68171Vhrs
+13:30 -> 8000V at 33uA 68171Vhrs
+13:35 -> 8000V at 33uA 68837Vhrs
+13:35 -> 8000V at 33uA 68840Vhrs
+13:40 -> 8000V at 33uA 69503Vhrs
+13:40 -> 8000V at 33uA 69508Vhrs
+13:45 -> 8000V at 33uA 70169Vhrs
+13:45 -> 8000V at 33uA 70176Vhrs
+13:50 -> 8000V at 33uA 70834Vhrs
+13:50 -> 8000V at 33uA 70844Vhrs
+13:55 -> 8000V at 33uA 71501Vhrs
+13:55 -> 8000V at 33uA 71513Vhrs
+14:00 -> 8000V at 33uA 72167Vhrs
+14:00 -> 8000V at 33uA 72182Vhrs
+14:04 -> 8000V at 33uA 72832Vhrs
+14:05 -> 8000V at 33uA 72850Vhrs
+14:05 -> Paused at step  4
+ÿÿÿ

@@ -15,7 +15,7 @@ The goal of IPGPhor 2 Reader is to parse log (text) files resulting from an expe
 
 ## Software
 
-The project was hosted on Sourceforge.net and, since 2016, is hosted on Github (you'll be able to choose the executable, source code and some data samples if you want to test the software).
+The project was hosted on Sourceforge.net and, since 2016, is hosted on Github. You can choose the executable (in bin/), source code (in src/) and some data samples (in sampledata/) if you want to test the software.
 
 The link above gives an archive that includes the executable (the software you'll use). You can run this software under MS-Windows, provided you have the .Net framework. If you regularly update your computer, you should already have it. Anyway, you can download it from Microsoft and install it.
 
