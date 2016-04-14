@@ -1,2 +1,3 @@
-# ignoring Vim ~ files
+# ignoring Vim swap and ~ files
+*.swp
 *~
